@@ -3,3 +3,5 @@ Pruebo a ver q pasa con git status
 -> Cambio despues de cargarlo a Github
 
 -> Pruebo el pull
+
+-> Mira luquitas
